@@ -1,22 +1,12 @@
 // This script will be compiled into the JS bundle automatically.
-setTimeout(function () {
-	var disqus = document.querySelector('#disqus_thread');
-  
-	if (disqus) {
-	  var adEncontrado = false;
-  
-	  const removead = () => {
-		let ad = disqus.querySelector('iframe');
-		if (ad) {
-		  ad.remove();
-		  adEncontrado = true;
-		} else {
-		  setTimeout(removead, 1000);
-		}
-	  };
-  
-	  setTimeout(function () {
-		removead();
-	  }, 2000);
+/* ------------- disqus ads disable code----------------------- */	
+
+const disqus = jQuery('#disqus_thread');
+disqus.ready(function() {
+  setTimeout(function() {
+	if (disqus.children().length >= 3) {
+	  const comments = disqus.find('iframe:nth-child(2)').detach();
+	  disqus.empty().append(comments);
 	}
-  }, 2000);
+  }, 2000); 
+});
