@@ -76,7 +76,7 @@ Moreover, if grid energy storage uses NIBs instead of LIBs, it will leave more l
 
  
 
-As for the second Na-ion battery cell design, with its higher energy density it could be used to build smaller ESS for domestic usage where space is limited. Moreover, since NIBs are extremely safe, [CTP (cell-to-pack) technology](/2020/04/12/simple-solution-for-safer-cheaper-more-energy-dense-batteries/) could be used to make EV batteries with a decent energy density of around 180 Wh/kg at the pack level.
+As for the second Na-ion battery cell design, with its higher energy density it could be used to build smaller ESS for domestic usage where space is limited. Moreover, since NIBs are extremely safe, [CTP (cell-to-pack) technology](/2020/04/12/simple-solution-for-safer-cheaper-and-more-energy-dense-batteries/) could be used to make EV batteries with a decent energy density of around 180 Wh/kg at the pack level.
 
  
 

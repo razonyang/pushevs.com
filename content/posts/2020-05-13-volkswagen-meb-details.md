@@ -113,7 +113,7 @@ A skateboard platform allows better weight distribution, thermal management and 
 
  
 
-Anyway, Volkswagen's MEB platform is great, nonetheless it can be improved. [CTP (cell-to-pack) technology that Chinese battery cell makers recently introduced](/2020/04/12/simple-solution-for-safer-cheaper-more-energy-dense-batteries/) is the next logical step to make simpler, safer, cheaper and more energy-dense battery packs.
+Anyway, Volkswagen's MEB platform is great, nonetheless it can be improved. [CTP (cell-to-pack) technology that Chinese battery cell makers recently introduced](/2020/04/12/simple-solution-for-safer-cheaper-and-more-energy-dense-batteries/) is the next logical step to make simpler, safer, cheaper and more energy-dense battery packs.
 
 Thanks for the heads up Pajda!
 

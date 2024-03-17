@@ -10,7 +10,7 @@ While ago I wrote that the [comeback of LFP (LiFePO4) batteries](/2019/08/16/the
 
 It seems that I was right about the first part and wrong about the second. Cobalt-free LFP batteries are now gaining traction, but it isn't thanks to LFMP...
 
-It's the [CTP (cell-to-pack) technology the main responsible for the substantial energy density increase of cobalt-free LFP batteries](/2020/04/12/simple-solution-for-safer-cheaper-more-energy-dense-batteries/) that made their strong comeback inevitable.
+It's the [CTP (cell-to-pack) technology the main responsible for the substantial energy density increase of cobalt-free LFP batteries](/2020/04/12/simple-solution-for-safer-cheaper-and-more-energy-dense-batteries/) that made their strong comeback inevitable.
 
  
 

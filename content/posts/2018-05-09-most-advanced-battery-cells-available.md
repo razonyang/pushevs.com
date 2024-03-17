@@ -20,7 +20,7 @@ Currently, most important advancements are being made at the cathode level, by i
 
 > **Q) This is a question about medium and large batteries. I am wondering how the NCM811 next generation battery development is proceeding.**  A) Batteries using NCM 811 cathode materials are mass-produced for electric buses. Third-generation batteries are a major direction of development to increase energy density, reduce cost, and improve charging performance. For this purpose, the nickel content is basically increased, the specific gravity of cobalt is reduced from the viewpoint of cost, and the artificial graphite is applied for rapid charging.
 > 
-> **Q) Is NCM 811 also applicable to cylindrical type and pouch type?**  A) The 811 is cylindrical and the pouch is 622 main. In the case of pouch type, we plan to go to 712 in the future. NCMA is the medium- and long-term goal. In NCMA, cobalt content is less than 10%, and it is planned to be mass-produced by 2020.
+> **Q) Is NCM 811 also applicable to cylindrical type and pouch type?**  A) The 811 is cylindrical and the pouch is 622 main. In the case of pouch type, we plan to go to 712 in the future. NCMA is the medium and long-term goal. In NCMA, cobalt content is less than 10%, and it is planned to be mass-produced by 2020.
 > 
 > **Q) When is NCM 712 mass production?**  A) Let me briefly talk about the development roadmap. In 622, 70% of nickel, 10% of cobalt and 20% of manganese go to 712. NCMA adds alumina to the NCM, bringing the nickel content close to 90%. 622 is in production, and 712 is actively developing for mass production in two to three years.
 

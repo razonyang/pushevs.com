@@ -58,4 +58,4 @@ However, the BYD V3 is the best version, with a more powerful motor and a more e
 
 In a more realistic test cycle such as the WLTP, the range would be around 245 km (152 miles), which is pretty acceptable for an electric cargo van. This electric van seems perfect for postal services.
 
-Anyway, it's amazing how fast BYD is adopting [module-less CTP battery packs](/2020/04/12/simple-solution-for-safer-cheaper-more-energy-dense-batteries/).
+Anyway, it's amazing how fast BYD is adopting [module-less CTP battery packs](/2020/04/12/simple-solution-for-safer-cheaper-and-more-energy-dense-batteries/).

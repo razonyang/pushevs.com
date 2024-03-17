@@ -75,7 +75,7 @@ The 305 km range in NEDC represents around 229 km (3/4) in WLTP, enough to make 
 
 Anyway, the Baojun E300 Plus looks like a futuristic autonomous electric car from a Sci-Fi movie and you either love it or hate it. Since I'm a Sci-Fi fan I love it...
 
-This one and the [Leapmotor T03](/2020/08/03/leapmotor-t03-great-small-electric-car/) are definitely the most interesting Chinese electric cars in the A-segment that could be successful in Europe. The Leapmotor T03 with its NCM 811 battery has higher range, but the Baojun E300 Plus with its cobalt-free battery can be cheaper and produced in much higher numbers.
+This one and the [Leapmotor T03](/2020/08/03/leapmotor-t03-is-a-great-small-electric-car/) are definitely the most interesting Chinese electric cars in the A-segment that could be successful in Europe. The Leapmotor T03 with its NCM 811 battery has higher range, but the Baojun E300 Plus with its cobalt-free battery can be cheaper and produced in much higher numbers.
 
  
 

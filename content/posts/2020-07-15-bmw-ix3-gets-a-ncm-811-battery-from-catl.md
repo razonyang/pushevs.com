@@ -50,7 +50,7 @@ We do however know that the BMW i4 will have different cells, but will also get 
 
 Using less safe ternary cells (NCM or NCA) requires safety mechanisms that add some weight and volume. With this type of cells it makes sense to use modules, because if some cells catch fire, the module can act as a firewall and prevent it from spreading to other cells.
 
-On the other hand, much safer cobalt-free LFP battery cells are heavier and bigger but won't catch fire or explode, even if punctured. This means that [modules are dispensable and we can assemble lighter and smaller battery packs](/2020/04/12/simple-solution-for-safer-cheaper-more-energy-dense-batteries/) even if using less energy-dense cells.
+On the other hand, much safer cobalt-free LFP battery cells are heavier and bigger but won't catch fire or explode, even if punctured. This means that [modules are dispensable and we can assemble lighter and smaller battery packs](/2020/04/12/simple-solution-for-safer-cheaper-and-more-energy-dense-batteries/) even if using less energy-dense cells.
 
  
 

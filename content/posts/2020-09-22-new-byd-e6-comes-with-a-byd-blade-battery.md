@@ -51,7 +51,7 @@ On the other end of the spectrum, we have Toyota that in its Prius PHEV is still
 
  
 
-Anyway, I think that by next year all electric cars from BYD will have a [module-less Blade Battery](/2020/04/12/simple-solution-for-safer-cheaper-more-energy-dense-batteries/), even the smaller ones such as the e1 and e2.
+Anyway, I think that by next year all electric cars from BYD will have a [module-less Blade Battery](/2020/04/12/simple-solution-for-safer-cheaper-and-more-energy-dense-batteries/), even the smaller ones such as the e1 and e2.
 
  
 

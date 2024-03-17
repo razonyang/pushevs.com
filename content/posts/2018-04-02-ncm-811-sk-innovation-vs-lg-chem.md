@@ -62,7 +62,7 @@ Anyway, we're done for today. This was the roundup of the current situation of N
 
  
 
-**Update**: it seems that the [NCM 811](/2018/05/09/most-advanced-battery-cells/) cells from LG Chem initially will only be available in cylindrical format and used in electric buses.
+**Update**: it seems that the [NCM 811](/2018/05/09/most-advanced-battery-cells-available/) cells from LG Chem initially will only be available in cylindrical format and used in electric buses.
 
  
 

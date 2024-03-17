@@ -55,7 +55,7 @@ Let's see the highlights:
 
  
 
-![All-new PEUGEOT 208 and e-208 interiors](/post-images/All-new-PEUGEOT-208-and-e-208-interiors.avif)
+![All-new PEUGEOT 208 and e-208 interiors](post-images/All-new-PEUGEOT-208-and-e-208-interiors.avif)
 
  
 

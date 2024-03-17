@@ -44,7 +44,7 @@ Y = 13,164556962 ÷ 17,2 = 0,765381218722 = 77 %
 
  
 
-It's no secret that Renault's Chameleon on-board charger is not very efficient at low currents. However, Renault does seem to have made its on-board charger more efficient in the new generation of the ZOE. Previously, the [charging efficiency of the R90 models at 10 A was estimated at 71 %](/2016/12/17/renault-zoe-charging-time-efficiency/).
+It's no secret that Renault's Chameleon on-board charger is not very efficient at low currents. However, Renault does seem to have made its on-board charger more efficient in the new generation of the ZOE. Previously, the [charging efficiency of the R90 models at 10 A was estimated at 71 %](/2016/12/17/renault-zoe-charging-time-and-efficiency/).
 
  
 
