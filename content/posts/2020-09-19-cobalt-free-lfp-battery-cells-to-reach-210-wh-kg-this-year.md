@@ -1,6 +1,6 @@
 ---
 title: "Cobalt-free LFP battery cells to reach 210 Wh/kg this year"
-url: 2020/08/19/cobalt-free-lfp-battery-cells-to-reach-210-wh-kg-this-year
+url: 2020/09/19/cobalt-free-lfp-battery-cells-to-reach-210-wh-kg-this-year
 authors: "pedrolima"
 date: "2020-09-19"
 images: 
