@@ -14,7 +14,7 @@ PushEVs is no longer made with Wordpress, now it's made with a static site gener
 
 Hugo describes itself as "world's fastest framework for building websites", but that's not why I chose it to make the new PushEVs website.
 
-As time goes by, Wordpress websites start to become slow and buggy - partly because installing plugins is fun and easy... Security and backups/restores are can also give us more headaches than they should.
+As time goes by, Wordpress websites start to become slow and buggy - partly because installing plugins is fun and easy... Security and backups/restores can also give us more headaches than they should.
 
 This is why I chose a static generator like Hugo:
 
