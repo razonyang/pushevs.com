@@ -31,7 +31,7 @@ Let's see the interesting stuff, the official specs.
 
  
 
-This battery cell complies with [BEV2 VDA standard](post-images/Proposed-VDA-size-standards-for-prismatic-battery-cells.jpg) (just 1 cm taller) and its dimensions are 173 mm x 125 mm x 45 mm.
+This battery cell complies with [BEV2 VDA standard](post-images/Proposed-VDA-size-standards-for-prismatic-battery-cells.avif) (just 1 cm taller) and its dimensions are 173 mm x 125 mm x 45 mm.
 
  
 
