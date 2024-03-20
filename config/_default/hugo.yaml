@@ -67,3 +67,9 @@ security:
       - ^HUGO
       - CI$
       - PWD
+
+cascade:
+- _target:
+    kind: page
+  params:
+    toc: false      
