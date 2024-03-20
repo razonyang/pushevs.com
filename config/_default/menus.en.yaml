@@ -16,7 +16,6 @@ main:
       icon:
         vendor: font-awesome-solid
         name: shop
-        color: white
 
   - name: AliExpress
     parent: stores
@@ -89,7 +88,6 @@ main:
       icon:
         vendor: font-awesome-solid
         name: info
-        color: white
 
   - name: Authors
     parent: info
